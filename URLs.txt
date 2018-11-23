@@ -1,0 +1,4 @@
+http://web.archive.org/web/*/dog%20and%20cat
+http://web.archive.org/web/*/writing%20blogs
+http://web.archive.org/web/*/ultra%20fine
+giraffes
